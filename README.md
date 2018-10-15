@@ -1,2 +1,2 @@
 # Challenge
-Repository for programming challenge in C++
+Repository for programming challenge in C++ by Tomasz Jachna
