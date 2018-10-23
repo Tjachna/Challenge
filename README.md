@@ -6,3 +6,4 @@ Repository for programming challenge in C++ by Tomasz Jachna
 17.10 - added FizzBuzz. Changed name convention of files.
 18.10 - added IP calculator
 22.10 - added Binary search
+23.10 - added Quine. Changed IDE from Visual Studio Code to Microsoft Visual Studio
